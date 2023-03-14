@@ -8,7 +8,8 @@ Zabbix Templates that interact with Home Assistant using the http agent and the 
 - Attach the downloaded template to the newly create host and make sure to change the inherited macro's to the correct values. I use macro's because it make creating templates more flexible.
 
 ## Specific Template Requirements
-### Template: ZBX-6x-Home-Assistant-Energy.yaml
+### Category Energy
+#### Template: **ZBX-6x-Home-Assistant-Energy.yaml**
 Change one or more Macro values as needed. 
 | MACRO | DEFAULT VALUE |
 | --- | --- |
