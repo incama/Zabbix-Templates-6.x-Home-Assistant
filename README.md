@@ -25,7 +25,7 @@ I don't use solar energy yet, but if someone does, please provide me the IDENTIT
 I guess the ID's are generic.
 
 ##### To Do list
-- [x] Grab a beer!
+- [x] :beer: Grab a beer!
 - [ ] Find out if energy id's are generic.
 - [ ] Get solar power id's when generic.
 - [ ] Adjust templates when above complies (except the beer).
