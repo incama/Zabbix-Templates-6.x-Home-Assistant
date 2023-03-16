@@ -1,5 +1,5 @@
 # Zabbix-Templates-6.x-Home-Assistant
-Zabbix Templates that interact with Home Assistant using the http agent and the Home Assistant API.
+Zabbix Templates that interact with Home Assistant using the Zabbix http agent and the Home Assistant long lived API.
 
 ## General Requirements
 - Make sure you create a long lived bearer access token within Home Assistant. (User settings and scroll all the way down to "Long-Lived Access Tokens".). Make sure to write down the token because you will need them within the template macro.
