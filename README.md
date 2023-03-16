@@ -26,6 +26,6 @@ I guess the ID's are generic.
 
 ##### To Do list
 - [x] :beer: Grab a beer!
-- [ ] Find out if energy id's are generic.
-- [ ] Get solar power id's when generic.
-- [ ] Adjust templates when above complies (except the beer).
+- [ ] :question: Find out if energy id's are generic.
+- [ ] :question: Get solar power id's when generic.
+- [ ] :question: Adjust templates when above complies (except the beer).
