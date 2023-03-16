@@ -25,7 +25,7 @@ Change one or more Macro values as needed.
 I guess the ID's are generic.
 
 ##### To Do list
-- [x] Grap a beer!
+- [x] Grab a beer!
 - [ ] Find out if energy id's are generic.
 - [ ] Get Solar power id's when generic.
 - [ ] Adjust templates when above complies (except the beer).
