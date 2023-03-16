@@ -21,7 +21,7 @@ Change one or more Macro values as needed.
 | {$PORT} | 8123 |
 | {$BEARER_APIKEY} | **** |
 
-- I don't use solar energy yet, but if someone does, please provide me the IDENTITY_ID's so I can integrate them within the template.
+I don't use solar energy yet, but if someone does, please provide me the IDENTITY_ID's so I can integrate them within the template.
 I guess the ID's are generic.
 
 ##### To Do list
