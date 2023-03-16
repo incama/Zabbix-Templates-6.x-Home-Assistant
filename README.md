@@ -27,5 +27,5 @@ I guess the ID's are generic.
 ##### To Do list
 - [x] Grab a beer!
 - [ ] Find out if energy id's are generic.
-- [ ] Get Solar power id's when generic.
+- [ ] Get solar power id's when generic.
 - [ ] Adjust templates when above complies (except the beer).
