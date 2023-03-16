@@ -20,3 +20,12 @@ Change one or more Macro values as needed.
 | {$WEBURL} | https://home-assistant.local |
 | {$PORT} | 8123 |
 | {$BEARER_APIKEY} | **** |
+
+- I don't use solar energy yet, but if someone does, please provide me the IDENTITY_ID's so I can integrate them within the template.
+I guess the ID's are generic.
+
+##### To Do list
+- [x] Grap a beer!
+- [ ] Find out if energy id's are generic.
+- [ ] Get Solar power id's when generic.
+- [ ] Adjust templates when above complies (except the beer).
